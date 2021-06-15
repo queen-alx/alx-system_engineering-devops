@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | grep -v ^d | tail -10
+ls -t | head
