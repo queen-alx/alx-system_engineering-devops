@@ -1,1 +1,1 @@
-**Shell, Basics project**
+**Shell, basics**
